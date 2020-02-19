@@ -1,0 +1,163 @@
+body{
+	background-color: #fff2e5;
+}
+
+h1 {
+  	color: #132743;
+	font-size: 40px;
+	font-family:'Philosopher', sans-serif;
+	text-align:left;
+	margin-top: 26.8px;
+	margin-left: 0px;
+	padding-left: 90px;
+	padding-top: 90px; 
+}
+h2 {
+  	color: #40bfc1;
+	font-size: 30px;
+	font-family:'Philosopher', sans-serif;
+	margin-top: 35px;
+}
+
+.container {
+	width: 1500px;
+	margin: 0 auto;
+}
+
+.bandeau-color {
+	background-color: #b7472a;
+    border:none;
+    padding: 0;
+    margin:0;
+/*    margin-left: 600px;
+*/    height: 250px; 
+    width: 900px;
+}
+
+.profil-descriptionccC {
+	border:1px solid #132743;
+	padding:5px;
+	border-radius:10px 0;
+	text-align: center;
+	box-shadow: 7px 7px 10px rgb(150,150,150);
+	width: 850px;
+	text-align: center;
+	background-color: white;
+	margin-top: 30px;
+}
+
+.right {
+	margin-left: 20px;
+	background-color: white;
+}
+
+.left {
+	margin: 16px auto;
+	background-color: white;
+}
+
+.logo {
+	width: 200px; 
+	height: 200px;
+	border-radius: 50%;	
+	border:1px solid #132743;
+} 
+
+.bouton{
+	margin-top: 20px;
+	padding: 16px 32px; 
+	background-color: #b7472a;
+	color: white;
+	text-decoration :none;
+	font-weight: : bolder;
+	border-radius: 10px;
+	box-shadow: 4px 4px 10px rgb(0 0 0 0.4);
+}
+
+#avatar {
+	margin-left: 200px;
+	margin-left: 400px;
+	width: 300px;
+	height: 300px;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+
+}
+
+.center {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.hobbies {
+	text-align: center;
+	border:1px solid #132743;
+	padding:5px;
+	border-radius:10px 0;
+	text-align: center;
+	box-shadow: 7px 7px 10px rgb(150,150,150);
+	width: 850px;
+	text-align: center;
+	margin: 20px auto;
+	background-color: white;
+	margin-top: 30px;
+}
+
+.socials i {
+	font-size: 70px;
+	color: #30475e;
+}
+
+.socials ul {
+	list-style: none;
+}
+
+.socials li {
+	display: inline;
+	margin-left: 15px;
+}
+
+.photoprofil{
+	margin-left: 450px;
+	width : 300px ;
+}
+
+#parcours {
+	height: 150px;
+	width: 500px;
+}
+.stages{
+	text-align: center;
+}
+
+/*.presenation {
+	background-image: url(images/photoprofil.jpg);
+	background-size: 300px;
+}*/
+
+.hobbies-details {
+	display: flex;
+}
+.parcours-details{
+	display: flex;
+	margin-top: 40px;
+}
+.ecole-details{
+	width: 150px; 
+	height: 150px;
+	margin-left: 100px;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+.photosecole {
+	width: 0;
+}
+.entete {
+	display: flex;
+	justify-content: space-between;
+}
+.coordonnes {
+	width: 350px;
+	font-size: 20px;
+	margin-top: 30px;
+}
